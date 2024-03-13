@@ -5,7 +5,7 @@ clc;close all;clear;
 addpath('./COS_code');
 
 %% image set 
-para.img_set_name= 'football_player';
+para.img_set_name= 'mastectomy_cases';
 para.img_path=['./img_data/co_saliency_data/', para.img_set_name, '/'];
 para.result_path = ['./img_output/', para.img_set_name, '/'];
 

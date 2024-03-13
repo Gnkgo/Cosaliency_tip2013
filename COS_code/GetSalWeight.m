@@ -11,4 +11,3 @@ Y = squareform(pdist(ctrs)).*repmat(bin_weight, [1, bin_num]);
 Sal_weight=sum(Y)';
 end
 
-test

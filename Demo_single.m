@@ -6,7 +6,7 @@ addpath('./COS_code');
 
 para.img_path='./img_data/single_data/';
 para.result_path = './img_output/';
-para.img_name = '1_45_45397.jpg';
+para.img_name = 'scar5.jpg';
 
 %--- cluster number -------
 para.Bin_num_single=6;
